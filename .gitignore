@@ -221,3 +221,6 @@ __marimo__/
 
 ny_taxi_postgress_data
 ny_taxi_postgress_data/*
+
+.terraform/
+terraform/keys
